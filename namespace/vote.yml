@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: vote
+
+#  kubectl create -f namespace/ --save-config --record
+
+# Criação do namespace
+
+# kubectl get all -n vote
+
+# Mostra todos os recursos deontro do namespace
